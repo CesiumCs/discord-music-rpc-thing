@@ -4,6 +4,8 @@ i hope this isnt against discord tos lol
 
 just paste an application id in and do `python3 run.py` and cross your fingers
 
+![screenshot](./screenshot.png)
+
 ## requirements
 
 uhh linux, playerctl, discord and python
